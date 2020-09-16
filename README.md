@@ -3,9 +3,10 @@
 <img src="IMG_3344.jpg" alt="me" width="400"/>
 ## "Me, in one sentence" 
 
-D/D/N 10 décembre
-Favourite color Green
-Favourite food TOUUUUUT!
+| D/D/N | Favourite color | Favourite food |
+| --- | --- | --- |
+|10 décembre | Green | TOUUUUUT! |
+
 Pinneapple on pizza: Yes/No
 ## Hobby
 discovering new world: antartica china south africa
