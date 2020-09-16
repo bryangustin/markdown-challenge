@@ -8,7 +8,6 @@
 | :-: | :-: | :-: | :-: |
 |10 décembre | Green | TOUUUUUT! | <ul><li>- [ ] Yes</li><li>- [x] NEVER</li></ul> |
 
-Pinneapple on pizza: Yes/No
 ## Hobby
 discovering new world: antartica china south africa
 ## You can always count on me when... 
