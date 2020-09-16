@@ -1,11 +1,11 @@
 # Bryan Gustin
-lets just, keep life simple!
-picture
+> lets just, keep life simple!
+<img src="IMG_3344.jpg" alt="me" width="400"/>
 ## "Me, in one sentence" 
-table
-10 decembre
-i like green
-i like everything!
+
+D/D/N 10 décembre
+Favourite color Green
+Favourite food TOUUUUUT!
 Pinneapple on pizza: Yes/No
 ## Hobby
 discovering new world: antartica china south africa
