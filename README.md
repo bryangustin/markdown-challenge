@@ -29,6 +29,6 @@ funny story
 ### TL;DR
 Summarise your funny story in one short sentence.
 
-<< <a href="???" title="Asad">Previous</a>
+<< <a href="https://github.com/asadsid56/markdown" title="Asad">Previous</a>
  || Bryan Gustin || 
 <a href="https://github.com/celinearn/markdown-challenge/blob/master/README.md" title="Céline">Next</a> >>
