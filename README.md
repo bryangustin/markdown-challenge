@@ -1,5 +1,5 @@
 # Bryan Gustin
-> lets just, keep life simple!
+> let's just, keep life simple!
 <img src="IMG_3344.jpg" alt="me" width="400"/>
 
 ## "Me, in one sentence" 
