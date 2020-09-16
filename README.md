@@ -18,7 +18,7 @@ Discovering new world:
 Sport:
 <ul>
   <li>Rugby</li>
-  <li>Joggingg</li>
+  <li>Jogging</li>
   <li>swimming</li>
 </ul>
 
@@ -29,4 +29,6 @@ long story
 ### TL;DR
 Summarise your funny story in one short sentence.
 
-PREVIOUS Bryan Gustin NEXT
+<a href="???" title="Assad">Previous</a>
+Bryan Gustin
+<a href="???" title="Céline">Next</a>
