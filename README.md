@@ -23,7 +23,7 @@ Sport:
 </ul>
 
 ## You can always count on me when... I am sober!
-I am always drunk... except at Becode
+I am always ... except at Becode
 ## A funny story
 funny story
 ### TL;DR
