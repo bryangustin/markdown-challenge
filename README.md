@@ -25,7 +25,7 @@ Sport:
 ## You can always count on me when... NO! No you can't!
 
 ## A funny story
-This is a funny story...
+It's me who will count on you...
 ### TL;DR
 Was it funny?
 
