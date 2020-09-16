@@ -9,17 +9,24 @@
 |10 décembre | Green | TOUUUUUT! | <ul><li>- [ ] Yes</li><li>- [x] NEVER</li></ul> |
 
 ## Hobby
-discovering new world:
+Discovering new world:
 <ul>
   <li>Antartica</li>
   <li>China</li>
   <li>South Africa</li>
 </ul>
+Sport:
+<ul>
+  <li>Rugby</li>
+  <li>Joggingg</li>
+  <li>swimming</li>
+</ul>
 
-## You can always count on me when... 
-small story
+## You can always count on me when... I am sober!
+I am always drunk... except at Becode
 ## A funny story
 long story
 ### TL;DR
 Summarise your funny story in one short sentence.
+
 PREVIOUS Bryan Gustin NEXT
