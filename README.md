@@ -1,8 +1,8 @@
 # Bryan Gustin
-> Let's just, keep life simple!
+> *Let's just, keep life simple!*
 <img src="IMG_3344.jpg" alt="me" width="400"/>
 
-## "Me, in one sentence" 
+## "Me, in one sentence"
 
 | D/D/N | Favourite color | Favourite food | pineapple on a pizza|
 | :-: | :-: | :-: | :-: |
@@ -29,6 +29,6 @@ long story
 ### TL;DR
 Summarise your funny story in one short sentence.
 
-<< <a href="???" title="Assad">Previous</a>
+<< <a href="???" title="Asad">Previous</a>
  || Bryan Gustin || 
 <a href="https://github.com/celinearn/markdown-challenge/blob/master/README.md" title="Céline">Next</a> >>
