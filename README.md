@@ -25,7 +25,7 @@ Sport:
 ## You can always count on me when... I am sober!
 I am always drunk... except at Becode
 ## A funny story
-long story
+funny story
 ### TL;DR
 Summarise your funny story in one short sentence.
 
