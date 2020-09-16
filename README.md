@@ -25,9 +25,9 @@ Sport:
 ## You can always count on me when... NO! No you can't!
 
 ## A funny story
-funny story
+This is a funny story...
 ### TL;DR
-Summarise your funny story in one short sentence.
+Was it funny?
 
 << <a href="https://github.com/asadsid56/markdown" title="Asad">Previous</a>
  || Bryan Gustin || 
