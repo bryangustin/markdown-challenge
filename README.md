@@ -22,12 +22,7 @@ Sport:
   <li>swimming</li>
 </ul>
 
-## You can always count on me when... NO! No you can't!
-
-## A funny story
-It's me who will count on you...
-### TL;DR
-Was it funny?
+## You can always count on me when!
 
 << <a href="https://github.com/asadsid56/markdown" title="Asad">Previous</a>
  || Bryan Gustin || 
